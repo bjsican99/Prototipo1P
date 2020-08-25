@@ -22,3 +22,16 @@ D:\Escritorio\BodegasAgricolas\BodegasAgricolas\obj\Debug\BodegasAgricolas.exe
 D:\Escritorio\BodegasAgricolas\BodegasAgricolas\obj\Debug\BodegasAgricolas.pdb
 D:\Escritorio\BodegasAgricolas\BodegasAgricolas\obj\Debug\BodegasAgricolas.Formularios.Ventas.resources
 D:\Escritorio\BodegasAgricolas\BodegasAgricolas\obj\Debug\BodegasAgricolas.Formularios.Cotizacion.resources
+D:\Escritorio\Prototipo1P\BodegasAgricolas\BodegasAgricolas\bin\Debug\BodegasAgricolas.exe.config
+D:\Escritorio\Prototipo1P\BodegasAgricolas\BodegasAgricolas\bin\Debug\BodegasAgricolas.exe
+D:\Escritorio\Prototipo1P\BodegasAgricolas\BodegasAgricolas\bin\Debug\BodegasAgricolas.pdb
+D:\Escritorio\Prototipo1P\BodegasAgricolas\BodegasAgricolas\obj\Debug\BodegasAgricolas.csprojAssemblyReference.cache
+D:\Escritorio\Prototipo1P\BodegasAgricolas\BodegasAgricolas\obj\Debug\BodegasAgricolas.Formularios.Cotizacion.resources
+D:\Escritorio\Prototipo1P\BodegasAgricolas\BodegasAgricolas\obj\Debug\BodegasAgricolas.frmmenu.resources
+D:\Escritorio\Prototipo1P\BodegasAgricolas\BodegasAgricolas\obj\Debug\BodegasAgricolas.Formularios.frmCompras.resources
+D:\Escritorio\Prototipo1P\BodegasAgricolas\BodegasAgricolas\obj\Debug\BodegasAgricolas.Formularios.Ventas.resources
+D:\Escritorio\Prototipo1P\BodegasAgricolas\BodegasAgricolas\obj\Debug\BodegasAgricolas.Properties.Resources.resources
+D:\Escritorio\Prototipo1P\BodegasAgricolas\BodegasAgricolas\obj\Debug\BodegasAgricolas.csproj.GenerateResource.cache
+D:\Escritorio\Prototipo1P\BodegasAgricolas\BodegasAgricolas\obj\Debug\BodegasAgricolas.csproj.CoreCompileInputs.cache
+D:\Escritorio\Prototipo1P\BodegasAgricolas\BodegasAgricolas\obj\Debug\BodegasAgricolas.exe
+D:\Escritorio\Prototipo1P\BodegasAgricolas\BodegasAgricolas\obj\Debug\BodegasAgricolas.pdb
